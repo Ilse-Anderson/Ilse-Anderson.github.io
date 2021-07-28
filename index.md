@@ -13,13 +13,13 @@ Fruition-Community<img src="images/Fruition_img.png"/>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-Life and Thyme
+Life and Thyme<img src="images/lifeandthyme_img.png"/>
 <a href="https://www.lifeandthyme.com/food/the-evolving-colorado-cuisine-of-chef-alex-seidel/">View Life and Thyme Article</a>
 
 
 ---
 
-Denver Life Magazine
+Denver Life Magazine<img src="images/denverlife_img.png"/>
 <a href="https://www.denverlifemagazine.com/farm-fresh-from-fruition-farms-2-0/">View Denver Life Magazine Article</a>
 
 
