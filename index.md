@@ -2,31 +2,25 @@
 
 ---
 
-### Category Name 1 
+### Projects 
 
-[Project 1 Title](/sample_page)
+[Outstanding in the field]
+<a href="https://www.outstandinginthefield.com/event-details/fruition-farms-creamery">View Fruition Article</a>
+
+---
+[Fruition-Community]
+<a href="https://www.places.travel/sections/food/fruition-farm-fruition-restaurant-growing-community">View Travel Article</a>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Life and Thyme]
+<a href="https://www.lifeandthyme.com/food/the-evolving-colorado-cuisine-of-chef-alex-seidel/">View Life and Thyme Article</a>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
+[Denver Life Magazine]
+<a href="https://www.denverlifemagazine.com/farm-fresh-from-fruition-farms-2-0/">View Denver Life Magazine Article</a>
 
 
 
