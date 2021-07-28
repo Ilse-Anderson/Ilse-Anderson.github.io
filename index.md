@@ -8,7 +8,7 @@ Outstanding in the field
 <a href="https://www.outstandinginthefield.com/event-details/fruition-farms-creamery">View Fruition Article</a>
 
 ---
-Fruition-Community
+Fruition-Community<img src="images/Fruition_img.png"/>
 <a href="https://www.places.travel/sections/food/fruition-farm-fruition-restaurant-growing-community">View Travel Article</a>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
